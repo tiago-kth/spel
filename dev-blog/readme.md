@@ -1,6 +1,6 @@
 # Individual Dev Blog
 
-So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Game Design](https://www.kth.se/student/kurser/kurs/DH2650?l=en) at KTH Royal Institute of Technology!
+So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Game Design](https://www.kth.se/student/kurser/kurs/DH2650?l=en) at KTH Royal Institute of Technology! I am hosting it here for now, but I plan to code it into a proper blog on my website ([tiago.wtf](https://www.tiago.wtf/)).
 
 | Contents |
 | -------- |
