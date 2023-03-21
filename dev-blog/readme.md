@@ -6,7 +6,7 @@ So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Gam
 | -------- |
 | [Day 0 - First Lecture](#day-0---first-lecture) |
 
-## Day 0 - First Lecture
+## Day 0 - First Lecture [back](#individual-dev-blog)
 
 This was a very exciting start. It was very interesting to listen to some of the other students' favorite games -- which I have never played.
 
@@ -26,7 +26,7 @@ The last game that really absorbed me, before my exile when my son was born, was
 
 How can we design such a thing?
 
-And that brings me back to "Tomorrow, tomorrow and tomorrow". It's not a perfect book, but it is a story ambiented in the 90s about two friends building a game by themselves. At some point, one of the characters says something that rang very true (and very close to something Björne said today during the lecture):
+And that brings me back to "Tomorrow, tomorrow and tomorrow". It's not a perfect book, but it is a story ambiented in the 90s about two friends building a game by themselves. At some point, one of the characters says something that rang very true (and very close to something Björn said today during the lecture):
 
 > To design a game is to imagine the person who will eventually play it.
 
