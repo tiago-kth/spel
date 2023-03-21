@@ -37,9 +37,19 @@ And also, by another character, in a different moment:
 ---
 ## Random, to organize, edit, search etc.
 
-To read:
+### To read:
 
 https://www.newyorker.com/books/page-turner/on-video-games-and-storytelling-an-interview-with-tom-bissell
+
+### Books
+
+"A Theory of Fun for Game Design" (and the [companion website](https://www.theoryoffun.com/))
+
+From "Tomorrow..."'s notes:
+
+> Although my parents both worked in computers and I am a lifelong gamer, these sources were particularly helpful to my thinking about and understanding of 1990s- and 2000s-era game culture and designers: Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made, by Jason Schreier; Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture, by David Kushner; Hackers: Heroes of the Computer Revolution (specifically the section on Sierra On-Line), by Steven Levy; A Mind Forever Voyaging: A History of Storytelling in Video Games, by Dylan Holmes; Extra Lives: Why Video Games Matter, by Tom Bissell; All Your Base Are Belong to Us: How Fifty Years of Video Games Conquered Pop Culture, by Harold Goldberg; and the documentaries Indie Game: The Movie, directed by James Swirsky and Lisanne Pajot, and GTFO, directed by Shannon Sun-Higginson. I read Indie Games by Bounthavy Suvilay after I finished writing, and it’s a beautiful book for those looking to see how artful games can be.
+
+### Random notes
 
 Uncharted Waters (New Horizons), Koei
 
@@ -54,7 +64,6 @@ One of the most terrifying scenes of my youth... investigating a UFO crash site 
 <img src="./imgs/x-com-geo-view.png" width=400>
 
 <img src="./imgs/ciiv1-2.png" width=400>
-
 
 Why XCOM: UFO Defense Is My Favorite Game Of All-Time (Dan Stapleton)
 
