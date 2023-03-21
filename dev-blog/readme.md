@@ -6,7 +6,7 @@ So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Gam
 | -------- |
 | [Day 0 - First Lecture](#day-0---first-lecture) |
 
-## Day 0 - First Lecture [back](#individual-dev-blog)
+## Day 0 - First Lecture [ˆ](#individual-dev-blog)
 
 This was a very exciting start. It was very interesting to listen to some of the other students' favorite games -- which I have never played.
 
