@@ -35,10 +35,27 @@ And also, by another character, in a different moment:
 > You’re a builder of worlds, and if you’re a builder of worlds, your feelings are not as important as what your gamers are feeling. You must imagine them at all times. There is no artist more empathetic than the game designer.
 
 ---
+## Random, to organize, edit, search etc.
+
 To read:
 
 https://www.newyorker.com/books/page-turner/on-video-games-and-storytelling-an-interview-with-tom-bissell
 
+Uncharted Waters (New Horizons), Koei
+
+<img src="./imgs/uncharted-waters-new-horizons.jpeg" width=400>
+
+X-Com: Ufo Defense
+
+One of the most terrifying scenes of my youth... investigating a UFO crash site in the dark.
+
+<img src="./imgs/x-com-1.jpeg" width=400>
+
+<img src="./imgs/x-com-geo-view.png" width=400>
+
+<img src="./imgs/ciiv1-2.png" width=400>
 
 
+Why XCOM: UFO Defense Is My Favorite Game Of All-Time (Dan Stapleton)
 
+https://www.youtube.com/watch?v=KV50XHrabbs
