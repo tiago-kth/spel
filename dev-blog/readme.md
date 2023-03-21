@@ -4,7 +4,7 @@ So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Gam
 
 | Contents |
 | -------- |
-| [Day 0 - First Lecture](##-day-0-first-lecture) |
+| [Day 0 - First Lecture](#day-0---first-lecture) |
 
 ## Day 0 - First Lecture
 
