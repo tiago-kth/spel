@@ -4,7 +4,7 @@ So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Gam
 
 | Contents |
 | -------- |
-| Day 0 - First Lecture |
+| [Day 0 - First Lecture](##-day-0-first-lecture) |
 
 ## Day 0 - First Lecture
 
@@ -14,7 +14,7 @@ I am older than most (or maybe older than everyone?) in my class, and I have two
 
 When I was around 15, I went to the United States for the first time in my life. I was living in my home country, Brazil, and my aunt was taking some of my cousins to Disney World, and I went along. I remember that my father gave me US$ 300 to spend in the trip, and I used it all to buy computer games. That was in the 90s, and some of what would become my favorite games had just been released, such as "X-Com: Ufo Defense", "Sid Meier's Civilization II", "Sid Meier's Colonization" (all three from Microprose), "Warcraft: Orcs and Humans" (Blizzard) and "Indiana Jones and the Fate of Atlantis" (LucasArts). I spent a good part of my life in those games, specially during my bachelor's degree. Fortunately, I had many annoying non-gamer friends that would come to my place and literally take me out of my computer. I remember travelling with them to spend holidays in the countryside, and thinking all the way through the trip about the trade routes I would be starting or where to place my next alien surveillance base when I was back home.
 
-But I have always loved reading as well. Just the last week, I found out that I might be a "literay gamer". I had just finished []"Tomorrow, tomorrow and tomorrow", by Gabrielle Zevin](https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow) (more on that later), and -- as I usually do, **after** reading a book -- I was reading reviews and interviews about it. I came accross [this piece, in The New York Times](https://www.nytimes.com/2022/07/08/books/review/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin.html), by Tom Bissell, that opens like this:
+But I have always loved reading as well. Just the last week, I found out that I might be a "literay gamer". I had just finished ["Tomorrow, tomorrow and tomorrow", by Gabrielle Zevin](https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow) (more on that later), and -- as I usually do, **after** reading a book -- I was reading reviews and interviews about it. I came accross [this piece, in The New York Times](https://www.nytimes.com/2022/07/08/books/review/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin.html), by Tom Bissell, that opens like this:
 
 > Most kids who play a lot of video games don’t grow up to become avid readers. Then again, not every kid who reads a lot of books grows up to become an avid reader. Yet, in the diverse taxonomy of the modern gaming audience, there exists the Literary Gamer — someone for whom reading and playing are, and always have been, the same voyage. It would never occur to the Literary Gamer that one activity negates the other. If anything, the Literary Gamer believes, reading and playing enhance systematic thinking and the mysteries of imaginative empathy. This reviewer, for better or worse, is an avowed Literary Gamer — and I call upon my brothers and sisters to join me in a recitation of  Fünke’s Axiom: “There are dozens of us! DOZENS!”
 
