@@ -22,16 +22,19 @@ So, that's it. I'm part of the DOZENS. And that's probably why I do like books w
 
 I guess my favorite genre is Strategy, especially turn-based-strategy games. That includes the whole Civilization series (I started with the very fist one, and played up to the fifth -- I still want to try the latest one, Civilization VI), the Master of Orion series (the second one was amazing), X-Com: UFO Defense (a superb game), the Heroes of Might and Magic series. But also some real-time strategy games, such as the Warcraft series, Age of Empires 2 and Sins of a Solar Empire.
 
-The last game that really absorbed me, before my exile when my son was born, was FTL: Faster Than Light. I remember wanting to play it after reading an [amazing story in PC Gamer magazine about it](https://www.pcgamer.com/ftl-preview-2/). I think it is amazing to see how a graphically simple game can instill such an immersive experience in its players, leading some, like the PC Gamer piece's writer, to even create a "mini-lore" out of a single play.
+The last game that really absorbed me, before my exile when my son was born, was FTL: Faster Than Light. I remember wanting to play it after reading an [amazing story in PC Gamer magazine about it](https://www.pcgamer.com/ftl-preview-2/). I think it is amazing to see how a graphically simple game can instill such an immersive experience in its players, leading some, like the PC Gamer piece's writer, to even create his own "mini-lore" out of a single play!
 
-How can we design such a thing?
+This leads to the unavoidable, the one million dollar question: how can we design such a thing?
 
-And that brings me back to "Tomorrow, tomorrow and tomorrow". It's not a perfect book, but it is a story ambiented in the 90s about two friends building a game by themselves. At some point, one of the characters says something that rang very true (and very close to something Björn said today during the lecture):
+And that brings me back to "Tomorrow, tomorrow and tomorrow". It's not a perfect book, but it is a story set in the 90s about two friends building a game by themselves. Maybe I like it more than I should for the sheer nostalgia. At some point, one of the characterss something that rang very true (and very close to something Björn said today during the lecture):
 
 > To design a game is to imagine the person who will eventually play it.
 
+And also, by another character, in a different moment:
+
 > You’re a builder of worlds, and if you’re a builder of worlds, your feelings are not as important as what your gamers are feeling. You must imagine them at all times. There is no artist more empathetic than the game designer.
 
+---
 To read:
 
 https://www.newyorker.com/books/page-turner/on-video-games-and-storytelling-an-interview-with-tom-bissell
