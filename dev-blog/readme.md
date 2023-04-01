@@ -5,6 +5,11 @@ So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Gam
 | Contents |
 | -------- |
 | [Day 0 - First Lecture](#day-0---first-lecture) |
+| [Day 1 - First Meeting](#day-1---first-meeting) |
+
+## Day 1 - First Meeting [ˆ](#individual-dev-blog)
+
+We had a first meeting and, since the schedule is super tight, we've already started discussing and brainstorming ideas. In the end we sorta settled for a rogue-like plataformer. 
 
 ## Day 0 - First Lecture [ˆ](#individual-dev-blog)
 
