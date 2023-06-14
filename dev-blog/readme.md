@@ -4,9 +4,9 @@ So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Gam
 
 | Contents |
 | -------- |
-| [Entry 0 - First Lecture](#entry-0---first-lecture) |
-| [Entry 1 - First Meeting](#entry-1---first-meeting) |
-| [Entry 2 - First Pitch](#entry-2---first-pitch) |
+| [Entry 0 - First Lecture](#entry-0---first-lecture-) |
+| [Entry 1 - First Meeting](#entry-1---first-meeting-) |
+| [Entry 2 - First Pitch](#entry-2---first-pitch-) |
 
 
 ## Entry 0 - First Lecture [ˆ](#individual-dev-blog)
@@ -53,7 +53,7 @@ Other ideas that we matured (somewhat) were:
 
 *	Use fishing rod / grappling hook to move and attack
 *	Find upgrades by fishing in each level
-* Enemies try to grab you and throw you back down 
+*   Enemies try to grab you and throw you back down 
 
 We discuted some inspirations. I particularly think a lot about “Alex Kidd” when I think about this game. I would like a similar aesthetics, but my colleagues suggested something similar to “Alto’s Adventure”. A game with a similar concept (vertical climbing / platformer) is “Jump King”.
 
