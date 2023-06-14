@@ -4,9 +4,9 @@ So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Gam
 
 | Contents |
 | -------- |
-| [Entry 0 - First Lecture](#entry-0---first-lecture-) |
-| [Entry 1 - First Meeting](#entry-1---first-meeting-) |
-| [Entry 2 - First Pitch](#entry-2---first-pitch-) |
+| [Entry 0 - First Lecture](#entry-0---first-lecture-%CB%86) |
+| [Entry 1 - First Meeting](#entry-1---first-meeting-%CB%86) |
+| [Entry 2 - First Pitch](#entry-2---first-pitch-%CB%86) |
 
 
 ## Entry 0 - First Lecture [ˆ](#individual-dev-blog)
