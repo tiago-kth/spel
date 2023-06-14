@@ -4,14 +4,12 @@ So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Gam
 
 | Contents |
 | -------- |
-| [Day 0 - First Lecture](#day-0---first-lecture) |
-| [Day 1 - First Meeting](#day-1---first-meeting) |
+| [Entry 0 - First Lecture](#entry-0---first-lecture) |
+| [Entry 1 - First Meeting](#entry-1---first-meeting) |
+| [Entry 2 - First Pitch](#entry-2---first-pitch) |
 
-## Day 1 - First Meeting [ˆ](#individual-dev-blog)
 
-We had a first meeting and, since the schedule is super tight, we've already started discussing and brainstorming ideas. In the end we sorta settled for a rogue-like plataformer. 
-
-## Day 0 - First Lecture [ˆ](#individual-dev-blog)
+## Entry 0 - First Lecture [ˆ](#individual-dev-blog)
 
 This was a very exciting start. It was very interesting to listen to some of the other students' favorite games -- which I have never played.
 
@@ -38,6 +36,34 @@ And that brings me back to "Tomorrow, tomorrow and tomorrow". It's not a perfect
 And also, by another character, in a different moment:
 
 > You’re a builder of worlds, and if you’re a builder of worlds, your feelings are not as important as what your gamers are feeling. You must imagine them at all times. There is no artist more empathetic than the game designer.
+
+## Entry 1 - First Meeting [ˆ](#individual-dev-blog)
+
+We had a first meeting and, since the schedule is super tight, we've already started discussing and brainstorming ideas. In the end we sorta settled for a rogue-like platformer, slightly nonsensical: a fisherman that can only use a fishing rod as grappling hook for movement. It is still not clear if the character should also move sideways, or if it would move exclusively with the grappling hook. The premise / backstory, on the other hand, is outright nonsensical: the Royal Family (!) established a monopoly on fishing and took all the fish in the ocean (!!) and put them on the top of a tower (!!!!).
+
+I personally think we have a lot of room for creativity with such a starting point. From our first introductions, it seems that we have at least two people well experienced with Unity, and it was decided that it would be our development platform of choice. I have no experience whatsoever with game development or Unity. I would like to get my hands dirty, but at the same time I don’t if it makes sense to start climbing a learning curve now and not be able to make any difference in the project (programming-wise).
+
+## Entry 2 - First Pitch [ˆ](#individual-dev-blog)
+
+For the first pitch presentation, I created an “elevator pitch”:
+
+Armed only with his faithful fishing rod and his wits, a lone fisherman defies the Royalty and an unforgiving tower in an epic quest for the ocean's stolen fish.
+
+Other ideas that we matured (somewhat) were:
+
+•	Use fishing rod / grappling hook to move and attack
+•	Find upgrades by fishing in each level
+•	Enemies try to grab you and throw you back down 
+
+We discuted some inspirations. I particularly think a lot about “Alex Kidd” when I think about this game. I would like a similar aesthetics, but my colleagues suggested something similar to “Alto’s Adventure”. A game with a similar concept (vertical climbing / platformer) is “Jump King”.
+
+Christine will be our designer, and she suggested playing around with the element “water”. David did some early prototyping on Unity.
+
+I was thinking about the “What is special about your game” thing in the first pitch presentation template. I think we have a quirky premise, with na unexpected hero, and that the story and all these game components that we’re thinking about (water, tower, fishes, climbing, grappling hook, royalty) are very generative design elements that leave a lot of room for playfulness, creativity and sheer fun.
+
+Let’s see!
+
+
 
 ---
 ## Random, to organize, edit, search etc.
