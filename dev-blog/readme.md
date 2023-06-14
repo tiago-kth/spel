@@ -51,9 +51,9 @@ Armed only with his faithful fishing rod and his wits, a lone fisherman defies t
 
 Other ideas that we matured (somewhat) were:
 
-•	Use fishing rod / grappling hook to move and attack
-•	Find upgrades by fishing in each level
-•	Enemies try to grab you and throw you back down 
+*	Use fishing rod / grappling hook to move and attack
+*	Find upgrades by fishing in each level
+* Enemies try to grab you and throw you back down 
 
 We discuted some inspirations. I particularly think a lot about “Alex Kidd” when I think about this game. I would like a similar aesthetics, but my colleagues suggested something similar to “Alto’s Adventure”. A game with a similar concept (vertical climbing / platformer) is “Jump King”.
 
