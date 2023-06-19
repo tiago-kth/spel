@@ -82,15 +82,15 @@ So, [according to wikipedia](https://en.wikipedia.org/wiki/Casual_game), casual 
 
 <div style="display:flex; flex-direction: row; gap: 10px;">
 
-<img src="./imgs/market-1.png" style="max-width: 300px;">
-<img src="./imgs/market-2.png" style="max-width: 300px;">
+<img src="./imgs/market-1.png" width=300>
+<img src="./imgs/market-2.png" width=300>
 
 </div>
 
 <div style="display:flex; flex-direction: row; gap: 10px; margin-bottom: 2rem;">
 
-<img src="./imgs/market-3.png" style="max-width: 300px;">
-<img src="./imgs/market-4.png" style="max-width: 300px;">
+<img src="./imgs/market-3.png" width=300>
+<img src="./imgs/market-4.png" width=300>
 
 </div>
 
@@ -135,9 +135,7 @@ This was a very interesting journey. I wish I had more details about the course 
 
 To finalize, a gameplay video of our game:
 
-<div class="video-wrapper">
-    <iframe class="video" src="https://www.youtube.com/embed/9mCiZTu0Pn8?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+[![Watch the video](https://img.youtube.com/vi/9mCiZTu0Pn8/default.jpg)](https://youtu.be/9mCiZTu0Pn8)
 
 
 ---
