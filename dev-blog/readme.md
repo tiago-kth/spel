@@ -7,6 +7,9 @@ So, yeah, this is my (tentative?) "dev blog" for the course [DH2650 Computer Gam
 | [Entry 0 - First Lecture](#entry-0---first-lecture-%CB%86) |
 | [Entry 1 - First Meeting](#entry-1---first-meeting-%CB%86) |
 | [Entry 2 - First Pitch](#entry-2---first-pitch-%CB%86) |
+| [Entry 3 - Business Plan](#entry-3---business-plan-%CB%86) |
+| [Entry 4 - Rerouting](#entry-4---rerouting-%CB%86) |
+| [Entry 5 - A Game!](#entry-5---a-game-%CB%86) |
 
 
 ## Entry 0 - First Lecture [ˆ](#individual-dev-blog)
@@ -47,7 +50,7 @@ I personally think we have a lot of room for creativity with such a starting poi
 
 For the first pitch presentation, I created an “elevator pitch”:
 
-Armed only with his faithful fishing rod and his wits, a lone fisherman defies the Royalty and an unforgiving tower in an epic quest for the ocean's stolen fish.
+> Armed only with his faithful fishing rod and his wits, a lone fisherman defies the Royalty and an unforgiving tower in an epic quest for the ocean's stolen fish.
 
 Other ideas that we matured (somewhat) were:
 
@@ -55,7 +58,7 @@ Other ideas that we matured (somewhat) were:
 *	Find upgrades by fishing in each level
 *   Enemies try to grab you and throw you back down 
 
-We discuted some inspirations. I particularly think a lot about “Alex Kidd” when I think about this game. I would like a similar aesthetics, but my colleagues suggested something similar to “Alto’s Adventure”. A game with a similar concept (vertical climbing / platformer) is “Jump King”.
+We discussed some inspirations. I particularly think a lot about “Alex Kidd” when I think about this game. I would like a similar aesthetics, but my colleagues suggested something similar to “Alto’s Adventure”. A game with a similar concept (vertical climbing / platformer) is “Jump King”.
 
 Christine will be our designer, and she suggested playing around with the element “water”. David did some early prototyping on Unity.
 
@@ -63,6 +66,78 @@ I was thinking about the “What is special about your game” thing in the firs
 
 Let’s see!
 
+## Entry 3 - Business Plan [ˆ](#individual-dev-blog)
+
+Many things are still open in our project. But I guess it's time to dive a bit deeper on the "not-so-fun" parts of the project.
+
+<img src="./imgs/chico.png" width=400>
+
+We keep saying that our game will be a "casual game", but then I decided to do some research about what actually that means.
+
+So, [according to wikipedia](https://en.wikipedia.org/wiki/Casual_game), casual games are targeted at a mass market audience (as opposed to a hardcore game, which is targeted at hobbyist gamers). They have simpler rules, shorter sessions, less learned skill, and a fun, simple gameplay. They are expected to have a simple, easy-to-understand user interface, and could be operated with a mobile phone tap-and-swipe interface or a one-button mouse interface. The games are played in short sessions, so a game can be played during work breaks, while on public transportation, or while waiting in a queue anywhere. Often they have familiar visual elements, like playing cards or a Match 3 grid of objects (think Bejewelled, candy crush…).
+
+### The market for Casual Games
+
+[Statista provides a very interesting report about the market for casual games](https://www.statista.com/outlook/dmo/app/games/casual-games/). Some of the main charts:
+
+<div style="display:flex; flex-direction: row; gap: 10px;">
+
+<img src="./imgs/market-1.png" style="max-width: 300px;">
+<img src="./imgs/market-2.png" style="max-width: 300px;">
+
+</div>
+
+<div style="display:flex; flex-direction: row; gap: 10px; margin-bottom: 2rem;">
+
+<img src="./imgs/market-3.png" style="max-width: 300px;">
+<img src="./imgs/market-4.png" style="max-width: 300px;">
+
+</div>
+
+The main takeaways are:
+
+* Overcrowded market, our game needs to stand out
+* Ads are a very important source of revenue, we need to rethink our initial plan of one-time purchase.
+* In-app purchases are the most important source of revenue, but it is not an option we will consider, on principle
+* Porting the game to the web platform may be important: virtually no friction, immediate access to the game, easier access to ads
+* Solid web / social media presence to attract users and build an audience
+* Come up with creative, fun invitation mechanisms to encourage word of mouth marketing
+
+## Entry 4 - Rerouting [ˆ](#individual-dev-blog)
+
+After a supervision session with Björn, we realized we were, err... a bit lost regarding many aspects of the came. 
+
+We discussed after the Status Update presentation that maybe we were going for a too casual game, and maybe that was not the goal in the first place.
+
+So we are reframing our target group to aim for Indie Games enthusiasts. That means players of any age, willing to try games with different, experimental, innovative gameplay. So we imagine our game being played on a PC at home, with playing sessions of 15-30 minutes, a few days a week.
+
+<img src="./imgs/player.png" width=400>
+
+## Entry 5 - A Game! [ˆ](#individual-dev-blog)
+
+Our last supervision was a bit of a cold shower, when Björn made us realize we still hadn't some key aspects of the game well defined. Specially the enemies. We worked really hard on the days leading to the final presentation to get the game straight.
+
+In the end, we decided the game would have two modes: 
+
+**Regular**: climb each section of the tower, fight the bosses, until you reach the very top of the tower.
+
+**Speedrun**: play on speedrun mode, with no enemies, and challenge your friends to climb as fast as possible
+
+We made some sketches on how the enemies should work, since they were not implemented on the demo.
+
+<img src="./imgs/enemies.png" width=400>
+
+We settled on the number of levels and how they should be implemented. After going back and forth with the idea of multiple towers / multiple settings, we settled on multiple towers on top of each other, each with a distinctive artwork.
+
+I finally some of my expertise and built the game website.
+
+This was a very interesting journey. I wish I had more details about the course beforehand, so I could prepare myself properly (getting acquainted with some of the available game development platforms) in order to contribute more to the actual game programming. But it was interesting simulating in some scale the endevour of developping a game in a team, with its conflicts, disagreements, but also its cooperation e collaboration.
+
+To finalize, a gameplay video of our game:
+
+<div class="video-wrapper">
+    <iframe class="video" src="https://www.youtube.com/embed/9mCiZTu0Pn8?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 ---
@@ -94,8 +169,14 @@ One of the most terrifying scenes of my youth... investigating a UFO crash site 
 
 <img src="./imgs/x-com-geo-view.png" width=400>
 
-<img src="./imgs/ciiv1-2.png" width=400>
-
 Why XCOM: UFO Defense Is My Favorite Game Of All-Time (Dan Stapleton)
 
 https://www.youtube.com/watch?v=KV50XHrabbs
+
+Civilization
+
+<img src="./imgs/ciiv1-2.png" width=400>
+
+Phantasy Star
+
+<img src="./imgs/phantasy-star.gif" width=400>
